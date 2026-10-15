@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+sentence-transformers
+chromadb
+tavily-python
+beautifulsoup4
+requests
+python-whois
+pypdf
+streamlit
+python-dotenv
+pydantic
